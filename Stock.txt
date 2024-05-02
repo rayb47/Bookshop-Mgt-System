@@ -1,0 +1,30 @@
+11223344,Paperback,A Promised Land,English,Biography,17-11-2020,17.5,5,768,new
+11224455,Audiobook,A Promised Land,English,Biography,24-11-2020,30.25,10,4.5,MP3
+12345678,Paperback,Introduction to AI,French,Computer Science,20-05-2019,50.0,8,410,new
+22334455,Paperback,Intelligent Investor,English,Business,23-10-2015,14.2,2,640,used
+22446688,Ebook,Big Money Energy,French,Business,21-01-2021,10.99,12,182,AZW3
+23456789,Ebook,Laws of Power,English,Politics,03-09-2017,18.1,15,724,PDF
+33112266,Audiobook,Laws of Power,French,Politics,22-09-2017,5.0,4,4.5,WMA
+33221144,Audiobook,Project Management,English,Computer Science,10-12-2019,22.0,9,7.2,AAC
+33331122,Paperback,Project Management,English,Computer Science,01-12-2019,32.5,2,132,new
+33332233,Ebook,Office Not Required,English,Business,11-02-2018,12.2,3,258,MOBI
+44112233,Audiobook,How To Be Right,English,Biography,30-05-2019,3.0,20,8.30,WMA
+44223344,Paperback,The Happy Healthy Plan,English,Medicine,10-12-2020,11.25,3,288,used
+44335566,Paperback,Cyber Security,English,Computer Science,10-10-2020,10.99,8,256,new
+44556688,Ebook,Cyber Security,English,Computer Science,10-10-2020,10.1,9,256,EPUB
+44556677,Audiobook,Deep Work,French,Business,05-01-2016,8.55,7,4.0,MP3
+44556688,Paperback,The Last Man,English,Biography,11-12-2016,12.5,19,90,new
+55667788,Audiobook,Python for Dummies,English,Computer Science,15-12-2009,15.5,20,50.5,MP3
+55776655,Ebook,Introduction to Databases,English,Computer Science,20-12-2018,35.99,10,100,AZW3
+66889900,Ebook,New World of AI,English,Computer Science,11-02-2021,12.2,25,300,MOBI
+66998855,Paperback,The World of Commerce,English,Business,01-12-2015,45.5,15,165,used
+77883322,Paperback,Business Management Simplified,English,Business,15-11-2019,32.5,30,190,new
+99883311,Audiobook,Business Management Simplified,English,Business,15-11-2019,14.99,15,25,MP3
+22449988,Audiobook,Big Money Energy,French,Business,17-01-2019,10.99,10,35,AZW3
+10120145,Paperback,Mein Kampf,English,Biography,15-05-2010,21.99,149,200,new
+10220145,Audiobook,Mein Kampf,English,Biography,25-06-2015,12.99,35,15,AAC
+10999988,Paperback,Fundamentals of Java,English,Computer Science,22-10-2017,10.99,155,90,new
+10510627,Paperback,My Early Life,English,Biography,11-11-2011,15.99,5,150,new
+99993322,Paperback,The Road not Taken,English,Biography,11-11-2019,32.99,10,155,new
+10044001,Paperback,Boolean Algebra,English,Computer Science,05-05-2020,15.55,10,120,used
+99776633,Ebook,Writ and Wisdom,English,Politics,10-11-2015,25.99,100,190,EPUB
